@@ -12,6 +12,7 @@ public class Item {
 	private Integer id;
 	//名字lo
 	private String name;
+	//shuxi
 	private Integer number;
 	
 	
