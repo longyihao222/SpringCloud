@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 public class Item {
 	//编程
 	private Integer id;
-	//名字
+	//名字lo
 	private String name;
 	private Integer number;
 }
