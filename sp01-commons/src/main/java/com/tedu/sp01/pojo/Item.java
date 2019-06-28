@@ -13,4 +13,6 @@ public class Item {
 	//名字lo
 	private String name;
 	private Integer number;
+	
+	
 }
